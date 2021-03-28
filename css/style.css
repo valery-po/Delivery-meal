@@ -334,6 +334,7 @@ ul {
   color: var(--black-color);
   padding: 12px 25px 12px 25px;
   transition: all .5s ease-in-out;
+  border: none;
 }
 
 .btn-style:hover {
