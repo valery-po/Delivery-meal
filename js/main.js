@@ -165,7 +165,7 @@ title:"Company Title",
 var companyMarker = new google.maps.Marker({
 position: companyPos,
 map: map,
-icon: companyImage,
+// icon: companyImage,
 shadow: companyShadow,
 title:"Høgenhaug",
 zIndex: 4
